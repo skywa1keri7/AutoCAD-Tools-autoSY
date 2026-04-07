@@ -1,5 +1,3 @@
-# AutoCAD-Tools-autoSY
-AutoCAD的自动化水印工具
 # AutoCAD-Watermark-LISP 🛠️
 ### 基于 AutoLISP 的图纸自动化一键水印工具
 
